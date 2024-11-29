@@ -22,7 +22,7 @@ h1 {
 
 h3 {
     color:#ff0909;
-    animation: fadeIn 2s ease-in-out;
+    animation: fadeIn 2s ease-in;
 }
 
 button {
