@@ -10,7 +10,7 @@ body {
     max-width: 600px;
     margin: 50px auto;
     text-align: center;
-    background: #0000006a;
+    background: #000000bf;
     /* #2b2a2a84; */
     padding: 20px;
     border-radius: 8px;
@@ -68,8 +68,6 @@ a:hover {
     text-decoration: none;
     
 }
-
-
 
 
 /* Reset */
